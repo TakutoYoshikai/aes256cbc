@@ -1,4 +1,4 @@
-# Takuto
+# aes256cbc
 AES-256-CBC encryption library
 
 ### Requirements
