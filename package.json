@@ -14,5 +14,9 @@
   },
   "dependencies": {
     "crypto": "^1.0.1"
+  },
+  "bin": {
+    "aes-encrypt": "./aes-encrypt.js",
+    "aes-decrypt": "./aes-decrypt.js"
   }
 }
