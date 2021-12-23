@@ -23,5 +23,12 @@ const encryptedData = encrypt(data, password);
 const decryptedData = decrypt(encryptedData, password);
 ```
 
+**shell commands**
+```bash
+aes-encrypt <FILE>
+
+aes-decrypt <ENCRYPTED FILE>
+```
+
 ### License
 MIT License
